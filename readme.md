@@ -30,4 +30,4 @@ I plan to add more features to this plugin over time. If you have any suggestion
 - Initial release.
 
 ## Author
-- Your Name
+- @jordan-thirkle
